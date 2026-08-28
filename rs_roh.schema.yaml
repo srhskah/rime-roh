@@ -1,0 +1,59 @@
+schema:
+  schema_id: rs_roh
+  name: "RS 羅O漢"
+  version: "2026.08"
+  author:
+    - "JW <jack201806@outlook.com>"
+  description: |
+    RIME Input Solution of Romacha ondina Hancha, Lenda Sarieh (JW's conlang).
+
+engine:
+  processors:
+    - ascii_composer     # 处理英文
+    - recognizer         # 识别模式
+    - key_binder         # 按键绑定
+    - speller            # 拼写处理（拼音）
+    - punctuator         # 标点处理
+    - selector           # 候选选择
+    - navigator          # 导航键
+    - express_editor     # 编辑器
+  segmentors:
+    - abc_segmentor      # 分割中英
+    - matcher            # 匹配器
+    - punct_segmentor    # 分割标点
+    - fallback_segmentor # 回退分割
+  translators:
+    - table_translator   # 表翻译器（词库）
+  filters:
+    - simplifier@emoji   # 过滤简化（可选）
+
+speller:
+  alphabet: zyxwvutsrqponmlkjihgfedcba
+
+
+# 拼音输入配置
+translator:
+  dictionary: rs_roh
+punctuator:
+  import_preset: default
+
+key_binder:
+  import_preset: default
+
+recognizer:
+  import_preset: default
+  patterns:
+    reverse_pinyin: "^0[a-z]*$"
+
+punctuator:
+  full_shape:
+    "," : "，"
+    "." : "。"
+    "?" : "？"
+    "\\" : "、"
+    "'" : "“"
+    "[" : "「"
+    "]" : "」"
+  half_shape:
+    "/" : "/"
+    "*" : "*"
