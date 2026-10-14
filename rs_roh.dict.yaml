@@ -63,6 +63,7 @@ Gaemesu	game	100
 河	heoh	100
 河北	heohbaekh	100
 河南	heohnam	100
+灰	heue	100
 河北	hobak	100
 河南	honam	100
 湖	hoh	100
@@ -72,6 +73,8 @@ Gaemesu	game	100
 芸	ik	100
 藝術	iksuk	100
 藝術	isuk	100
+IDR	idr	100
+Induree	idr 100
 字	Jah	100
 家	kah	100
 界	kai	100
@@ -98,12 +101,18 @@ Noh	noh	100
 籃	nung	90
 籃球	nungkuk	100
 軟體	nungteh	100
+OD	od	100
+Odik	od	100
+Odurem	od	100
+OT	ot	100
+Ddurem Tekin	ot	100
 烏	oi	100
 烏白	oibak	100
 黃	ong	100
 黃蛇	ongsak	100
 排	pae	100
 排球	paekuk	100
+銃	qung	100
 路	roh	100
 流	roi	100
 右	rok	100
@@ -124,6 +133,8 @@ Sabang	sabang	100
 死亡	samang	100
 死亡	sahmang	90
 水	sai	100
+水泳	saijung	100
+色	sak	100
 蛇	sak	100
 舍	sak	90
 舍鼠	saktoh	100
@@ -140,6 +151,7 @@ Sq	sequrah	100
 西南	sonam	100
 速	sua	100
 速高	suakauh	100
+速高路流	skrl	100
 蘇	suk	100
 數	suk	90
 術	suk	80
@@ -149,6 +161,11 @@ Sq	sequrah	100
 星球	sungkuk	100
 下	sya	100
 東北	tb	100
+睇	taeh	100
+Tekin	tekin	100
+睇喏	tn	100
+睇和	th	100
+睇度	ts	100
 行	teh	100
 體	teh	90
 鐵	tehi	100
