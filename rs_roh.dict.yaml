@@ -5,6 +5,7 @@ version: "2026.08"
 sort: by_weight
 use_preset_vocabulary: false
 ...
+力	reh	100
 銃	qung	100
 決定	chuadan	90
 測定	chuadan	100
