@@ -5,6 +5,7 @@ version: "2026.08"
 sort: by_weight
 use_preset_vocabulary: false
 ...
+銃	qung	100
 決定	chuadan	90
 測定	chuadan	100
 紅	ahng	100
