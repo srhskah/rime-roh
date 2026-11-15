@@ -68,8 +68,10 @@ Gaemesu	game	100
 灰	heue	100
 河北	hobak	100
 湖	hoh	100
+可	hoh	100
 皓	hok	100
 河南	honam	100
+可能	honong	100
 化	hwa	100
 IDR	idr	100
 Induree	idr 100
@@ -79,7 +81,11 @@ Induree	idr 100
 藝術	isuk	100
 字	Jah	100
 家	kah	100
+回	kai	100
+會	kai	100
 界	kai	100
+回憶	kaiyek	90
+會議	kaiyek	100
 Kareh	kareh	100
 Kareneh	kareneh	100
 高	kauh	100
@@ -88,6 +94,7 @@ Kareneh	kareneh	100
 科學	kohak	1000
 火車	kohchua	100
 火水	kosai	100
+古	kuhi	100
 球	kuk	100
 亡	mang	100
 網	mang	90
@@ -104,6 +111,7 @@ Navo	navo	100
 日本	nippon	100
 諾	noh	90
 Noh	noh	100
+能	nong	100
 籃	nung	90
 軟	nung	100
 籃球	nungkuk	100
@@ -136,6 +144,7 @@ Sabang	sabang	100
 世	saeh	100
 世界	saekai	100
 時間	saekan	100
+時古	saekui	100
 上	sah	100
 死	sah	90
 小	sah	80
@@ -204,5 +213,7 @@ Tohara	tohara	100
 越	viet	100
 越南	vietnam	100
 王	vong	100
+憶	yek	100
+議	yek	100
 英	yeong	100
 英	yung	100
